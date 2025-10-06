@@ -1,0 +1,2 @@
+$env:ANTHROPIC_BASE_URL = "https://api.z.ai/api/anthropic"
+$env:ANTHROPIC_AUTH_TOKEN = "8cf471afbaa44dadbeedf6e8d38b4555.7g49KrCJwH3S28Os"
